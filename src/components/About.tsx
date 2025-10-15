@@ -84,7 +84,7 @@ export default function About() {
           <div className={styles.story}>
             <h3 className={styles.subtitle}>My Journey</h3>
             <p className={styles.text}>
-              Talk about your background, education, and what led you to software engineering.
+              I currently attend Kennesaw State University, my passion for computers and for problem solving led me to choosing Software Engineering as a major.
             </p>
             <p className={styles.text}>
               Discuss your passion for technology and problem-solving. What have you learnt so far?

@@ -1,7 +1,6 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
-import Image from 'next/image';
 import styles from './Experience.module.css';
 
 interface ExperienceItem {

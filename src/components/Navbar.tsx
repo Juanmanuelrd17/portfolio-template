@@ -28,7 +28,7 @@ const Navbar = () => {
     <nav className={`${styles.navbar} ${isScrolled ? styles.scrolled : ''}`}>
       <div className={styles.container}>
         <a href="#" className={styles.logo} onClick={closeMenu}>
-          Full Name
+          Juan Manuel Ramos Diaz
         </a>
         
         <button 
